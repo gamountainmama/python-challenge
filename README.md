@@ -5,15 +5,15 @@ Week 3 Python Challenge
 |    PyBank    |
 ----------------
 
-PyBank analyses a csv file of dates and profit/loss.
+PyBank analyses a csv file of dates and profit/loss.  
 
-The results analyzed are:
-    1. Total number of months included in the data file
-    2. Net total of profit/loss over the time period
-    3. Changes in profit/loss over the time period
-    4. Average change of profit/loss over the time period
-    5. Greatest increase in profit (and associated date)
-    6. Greatest decrease in profit (and associated date)
+The results analyzed are:  
+    1. Total number of months included in the data file  
+    2. Net total of profit/loss over the time period  
+    3. Changes in profit/loss over the time period  
+    4. Average change of profit/loss over the time period  
+    5. Greatest increase in profit (and associated date)  
+    6. Greatest decrease in profit (and associated date)  
 
 Python knowledge gained:
     - importing os and csv Modules into Python
